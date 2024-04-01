@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "id": "40a41438-84a6-4b4d-ae1d-7f1713d0a9fe",
+      "nome": "Neilton Seguins",
+      "email": "neilton@alura.com",
+      "senha": "123456",
+      "transacoes": [
+        {
+          "id": "788f434b-11ee-451d-b968-02d203bfc81a",
+          "tipoTransacao": "Depósito",
+          "valor": "100",
+          "data": "16/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "745fed04-dd02-4e45-821e-166f524d1fb2",
+          "tipoTransacao": "Depósito",
+          "valor": "500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "78c5d8c3-6f46-41d1-9152-7c2474bcd473",
+          "tipoTransacao": "Transferência",
+          "valor": "360",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "70eeaa13-cef8-4ad6-aa00-7dce77567748",
+          "tipoTransacao": "Depósito",
+          "valor": "200",
+          "data": "01/03/2023",
+          "mes": "Março"
+        },
+        {
+          "id": "69a93fda-5934-44bc-8fb1-be713d924a2c",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "01/04/2024",
+          "mes": "Abril"
+        },
+        {
+          "id": "385220e1-7c05-40c0-83ce-b4a7f72019e7",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "01/04/2024",
+          "mes": "Abril"
+        },
+        {
+          "id": "84d14d6c-63d0-4345-8b22-49489befeaa4",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "01/04/2024",
+          "mes": "Abril"
+        },
+        {
+          "id": "77e84a90-5845-42c4-8186-c49831e4b52f",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "01/04/2024",
+          "mes": "Abril"
+        },
+        {
+          "id": "038e7eb1-5d3e-4c03-9900-af31056d5986",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "01/04/2024",
+          "mes": "Abril"
+        },
+        {
+          "id": "d4cd5113-94aa-48f1-b4cb-c6d8298346dd",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "01/04/2024",
+          "mes": "Abril"
+        },
+        {
+          "id": "ec06de0f-654d-4f5f-add2-5ce3ead3ad1b",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "01/04/2024",
+          "mes": "Abril"
+        },
+        {
+          "id": "6982af3a-8ec8-46e7-a8c2-0b0f44328987",
+          "tipoTransacao": "Transferência",
+          "valor": "80",
+          "data": "01/04/2024",
+          "mes": "Abril"
+        }
+      ],
+      "saldo": 920
+    },
+    {
+      "id": "c691fd15-dcd5-4f24-89da-cdfa3cef9d67",
+      "nome": "Vinicius Neves",
+      "email": "vinny@alura.com",
+      "senha": "789456",
+      "transacoes": [
+        {
+          "id": "b0411964-c8d4-4742-ad6d-15bb35b71b97",
+          "tipoTransacao": "Depósito",
+          "valor": "5000",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        },
+        {
+          "id": "f065a917-d283-4075-bbc3-4e1b3d8d1f3a",
+          "tipoTransacao": "Depósito",
+          "valor": "1500",
+          "data": "17/02/2023",
+          "mes": "Fevereiro"
+        }
+      ],
+      "saldo": 3500
+    }
+  ]
+}
